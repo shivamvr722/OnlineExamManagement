@@ -1,0 +1,35 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://gitlab.taskgrids.com/2024/m_/subgroup-m-maroon/online-exam-system.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "development"]
+	remote = origin
+	merge = refs/heads/development
+[branch "TEMP-M1"]
+	vscode-merge-base = origin/development
+[branch "M1"]
+	vscode-merge-base = origin/development
+[branch "temp2"]
+	vscode-merge-base = origin/development
+[branch "M7"]
+	remote = origin
+	merge = refs/heads/M7
+[branch "M4"]
+	remote = origin
+	merge = refs/heads/M4
+[branch "M5"]
+	remote = origin
+	merge = refs/heads/M5
+[branch "M3"]
+	remote = origin
+	merge = refs/heads/M3
+[branch "M2"]
+	remote = origin
+	merge = refs/heads/M2
+[branch "M6"]
+	remote = origin
+	merge = refs/heads/M6

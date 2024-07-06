@@ -1,0 +1,99 @@
+0000000000000000000000000000000000000000 c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d shivamEspark <shivam.v.rana.2024@gmail.com> 1712749372 +0530	branch: Created from HEAD
+c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d 11b4a6bfd5227a247182164bd8961c6dc9a4c839 shivamEspark <shivam.v.rana.2024@gmail.com> 1712751485 +0530	commit: userProfile added
+11b4a6bfd5227a247182164bd8961c6dc9a4c839 4af0367296fce4597a1697b57a0cba4257a79988 shivamEspark <shivam.v.rana.2024@gmail.com> 1712751983 +0530	commit: userProfileUpdate added
+4af0367296fce4597a1697b57a0cba4257a79988 6ce919961ac9a3db41862c67dc74372e3a3f045c shivamEspark <shivam.v.rana.2024@gmail.com> 1712753443 +0530	commit: some alignment fixes
+6ce919961ac9a3db41862c67dc74372e3a3f045c acba60d427a68dbbc8e539cce97f329009759db6 shivamEspark <shivam.v.rana.2024@gmail.com> 1712754023 +0530	commit: aligment fixes
+acba60d427a68dbbc8e539cce97f329009759db6 dd3d270ab6d5bb2eb768d5432350229ed324badd shivamEspark <shivam.v.rana.2024@gmail.com> 1712754764 +0530	commit: minor change has been done
+dd3d270ab6d5bb2eb768d5432350229ed324badd 42d6bca4b4ddc0c06ce3a3fd8dc1e930b7b7b7e5 shivamEspark <shivam.v.rana.2024@gmail.com> 1712757679 +0530	commit: routes added
+42d6bca4b4ddc0c06ce3a3fd8dc1e930b7b7b7e5 173124f5e27bcbdc71934dfc47eb189b05985f95 shivamEspark <shivam.v.rana.2024@gmail.com> 1712758046 +0530	commit: routing changed
+173124f5e27bcbdc71934dfc47eb189b05985f95 4211135875944cb1667f5f5849f8a2afaf64aac7 shivamEspark <shivam.v.rana.2024@gmail.com> 1712808763 +0530	pull origin development: Fast-forward
+4211135875944cb1667f5f5849f8a2afaf64aac7 5ac9e2a40fec1197a0bb3cb3b69da117c6463f37 shivamEspark <shivam.v.rana.2024@gmail.com> 1712821677 +0530	merge m6: Fast-forward
+5ac9e2a40fec1197a0bb3cb3b69da117c6463f37 84d84ccbae50f886a55509f96b21d7ca4073fc3e shivamEspark <shivam.v.rana.2024@gmail.com> 1712839779 +0530	commit: file renamed restructured, profile merged with dashboard, re routing, fetch data
+84d84ccbae50f886a55509f96b21d7ca4073fc3e 45309db2e9cad09ba1f569a2299a1f91160534a0 shivamEspark <shivam.v.rana.2024@gmail.com> 1712842264 +0530	commit: value fetched from db and set in user profile
+45309db2e9cad09ba1f569a2299a1f91160534a0 41cc654d0cbbf3794954b0e3764be48367586a5b shivamEspark <shivam.v.rana.2024@gmail.com> 1712842508 +0530	commit: some value fixes
+41cc654d0cbbf3794954b0e3764be48367586a5b ecc4c7fb460668daaf421540913b1694a6a5820e shivamEspark <shivam.v.rana.2024@gmail.com> 1712912076 +0530	commit: code optimised
+ecc4c7fb460668daaf421540913b1694a6a5820e be1c72449edd9517c642116621872a13d6bb3f85 shivamEspark <shivam.v.rana.2024@gmail.com> 1712912281 +0530	commit: code optimisation
+be1c72449edd9517c642116621872a13d6bb3f85 12b29de1dcbe1c7921c90550293d0e38b05f4c7c shivamEspark <shivam.v.rana.2024@gmail.com> 1712913257 +0530	pull origin M1: Merge made by the 'recursive' strategy.
+12b29de1dcbe1c7921c90550293d0e38b05f4c7c 4d3dcc2297a30f23ab250997e8c366abc86f86f8 shivamEspark <shivam.v.rana.2024@gmail.com> 1713156303 +0530	commit: save the changes
+4d3dcc2297a30f23ab250997e8c366abc86f86f8 a0cfb313f11708b21b436710f9072fb745b8c044 shivamEspark <shivam.v.rana.2024@gmail.com> 1713158222 +0530	commit (merge): saved new changes from devlopment and resolve the conflicts
+a0cfb313f11708b21b436710f9072fb745b8c044 53bccf0c613e5973b8d55e7d9d306234df32f31c shivamEspark <shivam.v.rana.2024@gmail.com> 1713167535 +0530	commit: re arranged the profile (dashboard included in profile) and data feeded in two both forms
+53bccf0c613e5973b8d55e7d9d306234df32f31c 3e3c1b7633168586b9af8ea9e3a0ab40fd8198e7 shivamEspark <shivam.v.rana.2024@gmail.com> 1713173094 +0530	commit: update profile finished
+3e3c1b7633168586b9af8ea9e3a0ab40fd8198e7 53c1106b6fbe6a7bcd0453864b63e4431aa0adac shivamEspark <shivam.v.rana.2024@gmail.com> 1713174241 +0530	commit: some minor changes
+53c1106b6fbe6a7bcd0453864b63e4431aa0adac c95ef9dad1e9a22de6e6cfbd480bd9bdb4464426 shivamEspark <shivam.v.rana.2024@gmail.com> 1713175274 +0530	commit: changed the file user profile file location and made it global
+c95ef9dad1e9a22de6e6cfbd480bd9bdb4464426 45f77c19e50ff074970731b9ea8094c0edafc329 shivamEspark <shivam.v.rana.2024@gmail.com> 1713186084 +0530	commit: profile pic table added in db, some minor changes in profile
+45f77c19e50ff074970731b9ea8094c0edafc329 a43d348edc26765c418dc4a87e756373db785a36 shivamEspark <shivam.v.rana.2024@gmail.com> 1713246595 +0530	commit: validation added empty, min, max, date, dob, email, numeric, etc
+a43d348edc26765c418dc4a87e756373db785a36 0f51c0db2ea2ceef69a0276a8fb7969c94757852 shivamEspark <shivam.v.rana.2024@gmail.com> 1713246793 +0530	commit: code alignment set
+0f51c0db2ea2ceef69a0276a8fb7969c94757852 914ceb5c935fea0cfd9a2a5b51f3591d65d2f94a shivamEspark <shivam.v.rana.2024@gmail.com> 1713250643 +0530	commit: multer utility added
+914ceb5c935fea0cfd9a2a5b51f3591d65d2f94a a87850c3cb4eef42ae56053ed0fabe246acbe6d7 shivamEspark <shivam.v.rana.2024@gmail.com> 1713250808 +0530	merge development: Merge made by the 'recursive' strategy.
+a87850c3cb4eef42ae56053ed0fabe246acbe6d7 9ca8f67ca440df3f9dca3209ccb5bf00ce2d5aa1 shivamEspark <shivam.v.rana.2024@gmail.com> 1713275278 +0530	commit: profile upload using multer, code restucture formdata
+9ca8f67ca440df3f9dca3209ccb5bf00ce2d5aa1 e3fe42d6346da32e473064a6c6ee4328b43bb001 shivamEspark <shivam.v.rana.2024@gmail.com> 1713326870 +0530	commit: some modification in validation
+e3fe42d6346da32e473064a6c6ee4328b43bb001 9b1f97c1b34e17215a5b1a9c8210b2ccb6f6e331 shivamEspark <shivam.v.rana.2024@gmail.com> 1713329914 +0530	commit: image stored in db
+9b1f97c1b34e17215a5b1a9c8210b2ccb6f6e331 fb04925f4b3ff8a84486e53a8228185d383e1a47 shivamEspark <shivam.v.rana.2024@gmail.com> 1713330368 +0530	merge development: Merge made by the 'recursive' strategy.
+fb04925f4b3ff8a84486e53a8228185d383e1a47 0999343b03eea1c04a080ba5351d5f4d12b54642 shivamEspark <shivam.v.rana.2024@gmail.com> 1713347770 +0530	commit: some code improvements
+0999343b03eea1c04a080ba5351d5f4d12b54642 da4c85ee087726b1744a4864204ab60c0c64fa96 shivamEspark <shivam.v.rana.2024@gmail.com> 1713359274 +0530	commit: image loaded with hidden path, back end controller, db handlings
+da4c85ee087726b1744a4864204ab60c0c64fa96 9e3c79410df5fb3c33044c5dffa4210afd641914 shivamEspark <shivam.v.rana.2024@gmail.com> 1713418044 +0530	commit (merge): frontend file validation and links added
+9e3c79410df5fb3c33044c5dffa4210afd641914 6d3f87ddbc0216c4d061d8bcf675f65860bb01a3 shivamEspark <shivam.v.rana.2024@gmail.com> 1713418338 +0530	commit (merge): resolved local confilcts while pull and merge from development
+6d3f87ddbc0216c4d061d8bcf675f65860bb01a3 87edcbbbdb1877f4ef2ab31f55bd6640fa278c2d shivamEspark <shivam.v.rana.2024@gmail.com> 1713423259 +0530	commit: alignment related fixes
+87edcbbbdb1877f4ef2ab31f55bd6640fa278c2d d1648e07d5b1ffd8fbe7386ff65ccbe7b1f6c4ec shivamEspark <shivam.v.rana.2024@gmail.com> 1713445583 +0530	commit: forget password added code modularisation
+d1648e07d5b1ffd8fbe7386ff65ccbe7b1f6c4ec 20a2e67462ce8744df9f03c6159abb330a739192 shivamEspark <shivam.v.rana.2024@gmail.com> 1713447322 +0530	commit: updated forget password
+20a2e67462ce8744df9f03c6159abb330a739192 d03178426d6f0c10560f3237dbf66e5d5b1ddd8c shivamEspark <shivam.v.rana.2024@gmail.com> 1713450152 +0530	commit (merge): confict resolved M1
+d03178426d6f0c10560f3237dbf66e5d5b1ddd8c ff2d803a1af9e9c5d6848b8ab1140f040f0d1727 shivamEspark <shivam.v.rana.2024@gmail.com> 1713529351 +0530	commit: forget password module done
+ff2d803a1af9e9c5d6848b8ab1140f040f0d1727 be635db06cd44cb9a970cbf5b0c912114ce5bd02 shivamEspark <shivam.v.rana.2024@gmail.com> 1713533631 +0530	commit: forget password module and bug fixes
+be635db06cd44cb9a970cbf5b0c912114ce5bd02 be1ad3a8b099f5110e106059c766d7781832cf2a shivamEspark <shivam.v.rana.2024@gmail.com> 1713591846 +0530	commit: image bug fixes
+be1ad3a8b099f5110e106059c766d7781832cf2a fb1cf501410b5dea4d866679d4f20a57a033226e shivamEspark <shivam.v.rana.2024@gmail.com> 1713592289 +0530	commit (merge): confict solved
+fb1cf501410b5dea4d866679d4f20a57a033226e 243c7dd5bdc078ad7f6ef7f2843682d513744a33 shivamEspark <shivam.v.rana.2024@gmail.com> 1713618172 +0530	commit: created exam results page
+243c7dd5bdc078ad7f6ef7f2843682d513744a33 7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 shivamEspark <shivam.v.rana.2024@gmail.com> 1713622296 +0530	commit: result page with values
+7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 93e9d72db0f3700284b71a567c7680454efe9490 shivamEspark <shivam.v.rana.2024@gmail.com> 1713624357 +0530	commit: image path set
+93e9d72db0f3700284b71a567c7680454efe9490 af81ac886b8e4ccad8bc9e67d7d79841db0a4269 shivamEspark <shivam.v.rana.2024@gmail.com> 1713761420 +0530	commit: image will dipsplay on upload and validation fixes
+af81ac886b8e4ccad8bc9e67d7d79841db0a4269 2912d8ccaa7f33c7fc06c888116660663db7fe9f shivamEspark <shivam.v.rana.2024@gmail.com> 1713761467 +0530	merge development: Merge made by the 'recursive' strategy.
+2912d8ccaa7f33c7fc06c888116660663db7fe9f 3c77f1fbcf99761776e95105fa06002176ba5673 shivamEspark <shivam.v.rana.2024@gmail.com> 1713786934 +0530	commit: logout in users
+3c77f1fbcf99761776e95105fa06002176ba5673 da4796658b82ac1ad42acf990b9cac97464c6d96 shivamEspark <shivam.v.rana.2024@gmail.com> 1713792661 +0530	commit: remove profile picture added with some bug fixes
+da4796658b82ac1ad42acf990b9cac97464c6d96 b7935d707cfca4317a75b0012eb280958aa19d15 shivamEspark <shivam.v.rana.2024@gmail.com> 1713794162 +0530	commit: styling realted changes
+b7935d707cfca4317a75b0012eb280958aa19d15 4cb1c303bef97aa392a9f07ced9c9776fbbe2741 shivamEspark <shivam.v.rana.2024@gmail.com> 1713794592 +0530	commit (merge): new dev changes Accepted
+4cb1c303bef97aa392a9f07ced9c9776fbbe2741 af0eed5ec328470efb463133a413bcdeee534f19 shivamEspark <shivam.v.rana.2024@gmail.com> 1713796583 +0530	commit: some minor chagnes after pull
+af0eed5ec328470efb463133a413bcdeee534f19 0e43f4dd85d445825bb0f351c2ecf556f9b2120e shivamEspark <shivam.v.rana.2024@gmail.com> 1713845135 +0530	commit: sovled the bug
+0e43f4dd85d445825bb0f351c2ecf556f9b2120e 8f37dfeb647dafaa2b09c6593d38aa9af1713313 shivamEspark <shivam.v.rana.2024@gmail.com> 1713845473 +0530	commit (merge): conflict solved
+8f37dfeb647dafaa2b09c6593d38aa9af1713313 a12eb1eea0a95dffa3ff558fa32b1fc57d89a155 shivamEspark <shivam.v.rana.2024@gmail.com> 1713847850 +0530	commit: chagnes made for the logs.log in git ingnore
+a12eb1eea0a95dffa3ff558fa32b1fc57d89a155 a52763fa6fba1d87b06f847369a8367b4f30efb4 shivamEspark <shivam.v.rana.2024@gmail.com> 1713852800 +0530	commit: commit for bugs remove and test
+a52763fa6fba1d87b06f847369a8367b4f30efb4 0a7105e5eca8a63bed9919322ed22457f29f3c9d shivamEspark <shivam.v.rana.2024@gmail.com> 1713853362 +0530	merge development: Merge made by the 'recursive' strategy.
+0a7105e5eca8a63bed9919322ed22457f29f3c9d 47e5258f24fd1b0fff01ce98a5e4775d743d821b shivamEspark <shivam.v.rana.2024@gmail.com> 1713866530 +0530	commit: view results module added
+47e5258f24fd1b0fff01ce98a5e4775d743d821b c027e6704fab1ef0e01ddd2a31404153d728dccb shivamEspark <shivam.v.rana.2024@gmail.com> 1713869282 +0530	commit: code impovement
+c027e6704fab1ef0e01ddd2a31404153d728dccb 916a7f4416f6b7e47eb02a2c695559c9118c7ba2 shivamEspark <shivam.v.rana.2024@gmail.com> 1713878569 +0530	commit: local css for profile and added aleart on logout and some bug fixes
+916a7f4416f6b7e47eb02a2c695559c9118c7ba2 9794a85758082ac566f1450d5c6b4189ae287f74 shivamEspark <shivam.v.rana.2024@gmail.com> 1713879488 +0530	commit: removed boostrap web classes
+9794a85758082ac566f1450d5c6b4189ae287f74 8b6b3b3ee6993476e593b799958b6ad70a84b315 shivamEspark <shivam.v.rana.2024@gmail.com> 1713879739 +0530	commit (merge): some changes
+8b6b3b3ee6993476e593b799958b6ad70a84b315 52e3aab1e5ddb9447758da657969e99d48ce463d shivamEspark <shivam.v.rana.2024@gmail.com> 1713882462 +0530	commit: zipcode realted validation fixes
+52e3aab1e5ddb9447758da657969e99d48ce463d 5cf03a4d6ffa02855d91ea6a540f44e16d856cce shivamEspark <shivam.v.rana.2024@gmail.com> 1713941572 +0530	commit: commit for save chagnes and component for pdf added
+5cf03a4d6ffa02855d91ea6a540f44e16d856cce 235d4480ed05e7266afdafcbc336294e285ab9d4 shivamEspark <shivam.v.rana.2024@gmail.com> 1713941667 +0530	commit (merge): merged from development
+235d4480ed05e7266afdafcbc336294e285ab9d4 8db7a5fc556ca3f516dd9928d4acbf9ce9b55341 shivamEspark <shivam.v.rana.2024@gmail.com> 1713958587 +0530	commit: the bugs and result code fixes
+8db7a5fc556ca3f516dd9928d4acbf9ce9b55341 f5947d03f7aae65f22e7df458ab58104671231ff shivamEspark <shivam.v.rana.2024@gmail.com> 1714019006 +0530	commit: generating pdf using puppetter p:unable to laod css
+f5947d03f7aae65f22e7df458ab58104671231ff c6d948336fef8042554de5dde13d0a9cd000d81b shivamEspark <shivam.v.rana.2024@gmail.com> 1714033173 +0530	commit: pdf generator and pie chart
+c6d948336fef8042554de5dde13d0a9cd000d81b f12d2c14a74f60df0d5409cc07a3b80d714d5c54 shivamEspark <shivam.v.rana.2024@gmail.com> 1714034283 +0530	commit (merge): merged development
+f12d2c14a74f60df0d5409cc07a3b80d714d5c54 4305fe858a65627f36ae7824eb54a3b753a6e4c9 shivamEspark <shivam.v.rana.2024@gmail.com> 1714052269 +0530	commit: score wise chart added into the result
+4305fe858a65627f36ae7824eb54a3b753a6e4c9 2d339d738e6d68ff439576aaf4a29b6011bce044 shivamEspark <shivam.v.rana.2024@gmail.com> 1714104626 +0530	commit: user button image and view resuls improvment
+2d339d738e6d68ff439576aaf4a29b6011bce044 3844c647c05738560ad6ae0e9211d8fe335d1493 shivamEspark <shivam.v.rana.2024@gmail.com> 1714104772 +0530	merge development: Merge made by the 'recursive' strategy.
+3844c647c05738560ad6ae0e9211d8fe335d1493 984308c12182c754e546eb98ba62c5bb28b1752f shivamEspark <shivam.v.rana.2024@gmail.com> 1714139664 +0530	commit: score card table and the component and chart competible to firefox added
+984308c12182c754e546eb98ba62c5bb28b1752f 810735538fd6b12eb35f72d0e1141903c7a449c9 shivamEspark <shivam.v.rana.2024@gmail.com> 1714141252 +0530	commit (merge): brnach M1 Conflict solved
+810735538fd6b12eb35f72d0e1141903c7a449c9 f67e7001577301d3ae30d0bced91eb6d4a91b46d shivamEspark <shivam.v.rana.2024@gmail.com> 1714201972 +0530	commit: route fix, pdf generation fix, result table fix, user profile button update with name, image related fixes
+f67e7001577301d3ae30d0bced91eb6d4a91b46d 494997b0e6626f155c10fd5bba189bc39e6c3990 shivamEspark <shivam.v.rana.2024@gmail.com> 1714202050 +0530	merge development: Merge made by the 'recursive' strategy.
+494997b0e6626f155c10fd5bba189bc39e6c3990 6b4b4c2aa75906859cbc6bdd97eb39367cecbcbf shivamEspark <shivam.v.rana.2024@gmail.com> 1714225691 +0530	commit: result marks table solved as well as pdf related file plus navigation bar image set
+6b4b4c2aa75906859cbc6bdd97eb39367cecbcbf 202059dcf6a9fcc78b797ce95b1397e7ea50b4cf shivamEspark <shivam.v.rana.2024@gmail.com> 1714378048 +0530	merge development: Fast-forward
+202059dcf6a9fcc78b797ce95b1397e7ea50b4cf 3c6fb32b17996b88c168d71582a3370dcabcf474 shivamEspark <shivam.v.rana.2024@gmail.com> 1714391029 +0530	commit: search functionlity added with improvements
+3c6fb32b17996b88c168d71582a3370dcabcf474 39dbc1b37c5ff936b32034a6f8f86ca55d5e45d4 shivamEspark <shivam.v.rana.2024@gmail.com> 1714398975 +0530	commit: code fixes and improvements and search
+39dbc1b37c5ff936b32034a6f8f86ca55d5e45d4 4a2f4ffab13dc91930783f98acb4d58eff18ffec shivamEspark <shivam.v.rana.2024@gmail.com> 1714457998 +0530	commit: css improvements and results query improved
+4a2f4ffab13dc91930783f98acb4d58eff18ffec 051641f74724e2b9f9030ba1e399f8960f24f650 shivamEspark <shivam.v.rana.2024@gmail.com> 1714458114 +0530	commit (merge): development pull merged
+051641f74724e2b9f9030ba1e399f8960f24f650 a3caaaf9bcb633c80bd50c23e1ad8b791b4b1804 shivamEspark <shivam.v.rana.2024@gmail.com> 1714465103 +0530	commit: on login the browser back button problem solved
+a3caaaf9bcb633c80bd50c23e1ad8b791b4b1804 f77b396d35cb7f05ad54eb7d87bf0ff8d026e7fa shivamEspark <shivam.v.rana.2024@gmail.com> 1714483321 +0530	commit: validation updates, style improvements
+f77b396d35cb7f05ad54eb7d87bf0ff8d026e7fa 05c0cb5a75515a6510ed5db9a19b542c3a408c96 shivamEspark <shivam.v.rana.2024@gmail.com> 1714535674 +0530	commit: save chagnes
+05c0cb5a75515a6510ed5db9a19b542c3a408c96 6d8eba5706dd081337ec4a02ca7cd1bd7959127a shivamEspark <shivam.v.rana.2024@gmail.com> 1714535765 +0530	merge development: Merge made by the 'recursive' strategy.
+6d8eba5706dd081337ec4a02ca7cd1bd7959127a 7282b2cf36a85b498f636fa9818274329fa6aefe shivamEspark <shivam.v.rana.2024@gmail.com> 1714548470 +0530	commit: cache control route added to prevenet back on logout
+7282b2cf36a85b498f636fa9818274329fa6aefe b4ca2d9a5a6e11bd65b78d993e6b3b908462878f shivamEspark <shivam.v.rana.2024@gmail.com> 1714571663 +0530	commit (merge): feedback functionality user side done with pagination and search
+b4ca2d9a5a6e11bd65b78d993e6b3b908462878f 7cc6deaee9557e40a533bf362dd16ecced69c3ff shivamEspark <shivam.v.rana.2024@gmail.com> 1714571979 +0530	commit: search problem solved
+7cc6deaee9557e40a533bf362dd16ecced69c3ff 65a0adc74ffaccc89729e994fe8c4f1d3c871f57 shivamEspark <shivam.v.rana.2024@gmail.com> 1714623099 +0530	merge development: Fast-forward
+65a0adc74ffaccc89729e994fe8c4f1d3c871f57 b6a1b0fccc48bd0f3b2dba812d06105cf3804ac4 shivamEspark <shivam.v.rana.2024@gmail.com> 1714655531 +0530	commit: search function improved in both module, query improved
+b6a1b0fccc48bd0f3b2dba812d06105cf3804ac4 ef14c1811c71e5b0fe4629e4e4d7db13a6e87a17 shivamEspark <shivam.v.rana.2024@gmail.com> 1714655886 +0530	commit (merge): merge devlopment into local
+ef14c1811c71e5b0fe4629e4e4d7db13a6e87a17 0ad2ec60dc94e9f270fa08f7ebfd1f2bbfc4c749 shivamEspark <shivam.v.rana.2024@gmail.com> 1714707420 +0530	commit: some minor fixes and changes
+0ad2ec60dc94e9f270fa08f7ebfd1f2bbfc4c749 3285aae222fb91b452bb25ff858c151cf9aa8746 shivamEspark <shivam.v.rana.2024@gmail.com> 1714710114 +0530	commit (merge): issue pagination button hide on no records
+3285aae222fb91b452bb25ff858c151cf9aa8746 9c238f4c2b5cf82a78a3039bab6d1611b8e40bde shivamEspark <shivam.v.rana.2024@gmail.com> 1714732948 +0530	commit: dark mode added
+9c238f4c2b5cf82a78a3039bab6d1611b8e40bde 334a517fc92801eb1afec5cfb01171e0fcf9b704 shivamEspark <shivam.v.rana.2024@gmail.com> 1714733031 +0530	commit: dark mode added and code optimised
+334a517fc92801eb1afec5cfb01171e0fcf9b704 c42be224104dc1755a1ff157a799ae3a5aada0a3 shivamEspark <shivam.v.rana.2024@gmail.com> 1714739697 +0530	commit: file buffer validation added
+c42be224104dc1755a1ff157a799ae3a5aada0a3 a40f7fd9fb5c68040fe3fe4ff164e3139db74c18 shivamEspark <shivam.v.rana.2024@gmail.com> 1714739763 +0530	merge tempM1x: Fast-forward

@@ -1,0 +1,300 @@
+0000000000000000000000000000000000000000 c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d shivamEspark <shivam.v.rana.2024@gmail.com> 1712749350 +0530	clone: from https://gitlab.taskgrids.com/2024/m_/subgroup-m-maroon/online-exam-system.git
+c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d shivamEspark <shivam.v.rana.2024@gmail.com> 1712749372 +0530	checkout: moving from development to M1
+c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d 11b4a6bfd5227a247182164bd8961c6dc9a4c839 shivamEspark <shivam.v.rana.2024@gmail.com> 1712751485 +0530	commit: userProfile added
+11b4a6bfd5227a247182164bd8961c6dc9a4c839 4af0367296fce4597a1697b57a0cba4257a79988 shivamEspark <shivam.v.rana.2024@gmail.com> 1712751983 +0530	commit: userProfileUpdate added
+4af0367296fce4597a1697b57a0cba4257a79988 6ce919961ac9a3db41862c67dc74372e3a3f045c shivamEspark <shivam.v.rana.2024@gmail.com> 1712753443 +0530	commit: some alignment fixes
+6ce919961ac9a3db41862c67dc74372e3a3f045c acba60d427a68dbbc8e539cce97f329009759db6 shivamEspark <shivam.v.rana.2024@gmail.com> 1712754023 +0530	commit: aligment fixes
+acba60d427a68dbbc8e539cce97f329009759db6 dd3d270ab6d5bb2eb768d5432350229ed324badd shivamEspark <shivam.v.rana.2024@gmail.com> 1712754764 +0530	commit: minor change has been done
+dd3d270ab6d5bb2eb768d5432350229ed324badd 42d6bca4b4ddc0c06ce3a3fd8dc1e930b7b7b7e5 shivamEspark <shivam.v.rana.2024@gmail.com> 1712757679 +0530	commit: routes added
+42d6bca4b4ddc0c06ce3a3fd8dc1e930b7b7b7e5 173124f5e27bcbdc71934dfc47eb189b05985f95 shivamEspark <shivam.v.rana.2024@gmail.com> 1712758046 +0530	commit: routing changed
+173124f5e27bcbdc71934dfc47eb189b05985f95 173124f5e27bcbdc71934dfc47eb189b05985f95 shivamEspark <shivam.v.rana.2024@gmail.com> 1712808623 +0530	checkout: moving from M1 to M1_sub
+173124f5e27bcbdc71934dfc47eb189b05985f95 173124f5e27bcbdc71934dfc47eb189b05985f95 shivamEspark <shivam.v.rana.2024@gmail.com> 1712808702 +0530	checkout: moving from M1_sub to M1
+173124f5e27bcbdc71934dfc47eb189b05985f95 4211135875944cb1667f5f5849f8a2afaf64aac7 shivamEspark <shivam.v.rana.2024@gmail.com> 1712808763 +0530	pull origin development: Fast-forward
+4211135875944cb1667f5f5849f8a2afaf64aac7 4211135875944cb1667f5f5849f8a2afaf64aac7 shivamEspark <shivam.v.rana.2024@gmail.com> 1712820369 +0530	checkout: moving from M1 to m6
+4211135875944cb1667f5f5849f8a2afaf64aac7 4211135875944cb1667f5f5849f8a2afaf64aac7 shivamEspark <shivam.v.rana.2024@gmail.com> 1712820503 +0530	checkout: moving from m6 to M1
+4211135875944cb1667f5f5849f8a2afaf64aac7 4211135875944cb1667f5f5849f8a2afaf64aac7 shivamEspark <shivam.v.rana.2024@gmail.com> 1712820519 +0530	reset: moving to HEAD
+4211135875944cb1667f5f5849f8a2afaf64aac7 4211135875944cb1667f5f5849f8a2afaf64aac7 shivamEspark <shivam.v.rana.2024@gmail.com> 1712820643 +0530	checkout: moving from M1 to m6
+4211135875944cb1667f5f5849f8a2afaf64aac7 602abbb54fb4a3bc9d9fe9b080950d1e041b654e shivamEspark <shivam.v.rana.2024@gmail.com> 1712821448 +0530	commit: folder name has been changed
+602abbb54fb4a3bc9d9fe9b080950d1e041b654e 602abbb54fb4a3bc9d9fe9b080950d1e041b654e shivamEspark <shivam.v.rana.2024@gmail.com> 1712821472 +0530	checkout: moving from m6 to m6
+602abbb54fb4a3bc9d9fe9b080950d1e041b654e 5ac9e2a40fec1197a0bb3cb3b69da117c6463f37 shivamEspark <shivam.v.rana.2024@gmail.com> 1712821627 +0530	pull origin M6: Merge made by the 'recursive' strategy.
+5ac9e2a40fec1197a0bb3cb3b69da117c6463f37 4211135875944cb1667f5f5849f8a2afaf64aac7 shivamEspark <shivam.v.rana.2024@gmail.com> 1712821656 +0530	checkout: moving from m6 to M1
+4211135875944cb1667f5f5849f8a2afaf64aac7 5ac9e2a40fec1197a0bb3cb3b69da117c6463f37 shivamEspark <shivam.v.rana.2024@gmail.com> 1712821677 +0530	merge m6: Fast-forward
+5ac9e2a40fec1197a0bb3cb3b69da117c6463f37 84d84ccbae50f886a55509f96b21d7ca4073fc3e shivamEspark <shivam.v.rana.2024@gmail.com> 1712839779 +0530	commit: file renamed restructured, profile merged with dashboard, re routing, fetch data
+84d84ccbae50f886a55509f96b21d7ca4073fc3e 45309db2e9cad09ba1f569a2299a1f91160534a0 shivamEspark <shivam.v.rana.2024@gmail.com> 1712842264 +0530	commit: value fetched from db and set in user profile
+45309db2e9cad09ba1f569a2299a1f91160534a0 41cc654d0cbbf3794954b0e3764be48367586a5b shivamEspark <shivam.v.rana.2024@gmail.com> 1712842508 +0530	commit: some value fixes
+41cc654d0cbbf3794954b0e3764be48367586a5b 41cc654d0cbbf3794954b0e3764be48367586a5b shivamEspark <shivam.v.rana.2024@gmail.com> 1712845213 +0530	checkout: moving from M1 to s1
+41cc654d0cbbf3794954b0e3764be48367586a5b c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d shivamEspark <shivam.v.rana.2024@gmail.com> 1712846080 +0530	checkout: moving from s1 to development
+c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d 41cc654d0cbbf3794954b0e3764be48367586a5b shivamEspark <shivam.v.rana.2024@gmail.com> 1712846738 +0530	checkout: moving from development to M1
+41cc654d0cbbf3794954b0e3764be48367586a5b 41cc654d0cbbf3794954b0e3764be48367586a5b shivamEspark <shivam.v.rana.2024@gmail.com> 1712904985 +0530	checkout: moving from M1 to TEMP-M1
+41cc654d0cbbf3794954b0e3764be48367586a5b 41cc654d0cbbf3794954b0e3764be48367586a5b shivamEspark <shivam.v.rana.2024@gmail.com> 1712905061 +0530	checkout: moving from TEMP-M1 to M1
+41cc654d0cbbf3794954b0e3764be48367586a5b 41cc654d0cbbf3794954b0e3764be48367586a5b shivamEspark <shivam.v.rana.2024@gmail.com> 1712905198 +0530	checkout: moving from M1 to TEMP-M1
+41cc654d0cbbf3794954b0e3764be48367586a5b d3330e13364bde61a25be89c35fa3642d9ff3e45 shivamEspark <shivam.v.rana.2024@gmail.com> 1712905356 +0530	commit: some changes
+d3330e13364bde61a25be89c35fa3642d9ff3e45 9b454e851d5a32b3caf45acb946df959c4989dec shivamEspark <shivam.v.rana.2024@gmail.com> 1712906982 +0530	commit (merge): added file
+9b454e851d5a32b3caf45acb946df959c4989dec 9b454e851d5a32b3caf45acb946df959c4989dec shivamEspark <shivam.v.rana.2024@gmail.com> 1712906999 +0530	checkout: moving from TEMP-M1 to TEMP-M1
+9b454e851d5a32b3caf45acb946df959c4989dec 41cc654d0cbbf3794954b0e3764be48367586a5b shivamEspark <shivam.v.rana.2024@gmail.com> 1712907094 +0530	checkout: moving from TEMP-M1 to M1
+41cc654d0cbbf3794954b0e3764be48367586a5b 9b454e851d5a32b3caf45acb946df959c4989dec shivamEspark <shivam.v.rana.2024@gmail.com> 1712907369 +0530	checkout: moving from M1 to TEMP-M1
+9b454e851d5a32b3caf45acb946df959c4989dec 41cc654d0cbbf3794954b0e3764be48367586a5b shivamEspark <shivam.v.rana.2024@gmail.com> 1712907783 +0530	checkout: moving from TEMP-M1 to M1
+41cc654d0cbbf3794954b0e3764be48367586a5b 9b454e851d5a32b3caf45acb946df959c4989dec shivamEspark <shivam.v.rana.2024@gmail.com> 1712907817 +0530	checkout: moving from M1 to TEMP-M1
+9b454e851d5a32b3caf45acb946df959c4989dec d3330e13364bde61a25be89c35fa3642d9ff3e45 shivamEspark <shivam.v.rana.2024@gmail.com> 1712908104 +0530	reset: moving to d3330e13364bde61a25be89c35fa3642d9ff3e45
+d3330e13364bde61a25be89c35fa3642d9ff3e45 f127fd40eadab3164a40907da98cfde31de518cd shivamEspark <shivam.v.rana.2024@gmail.com> 1712910755 +0530	commit: resovling confilict temp
+f127fd40eadab3164a40907da98cfde31de518cd 41cc654d0cbbf3794954b0e3764be48367586a5b shivamEspark <shivam.v.rana.2024@gmail.com> 1712910774 +0530	checkout: moving from TEMP-M1 to M1
+41cc654d0cbbf3794954b0e3764be48367586a5b ecc4c7fb460668daaf421540913b1694a6a5820e shivamEspark <shivam.v.rana.2024@gmail.com> 1712912076 +0530	commit: code optimised
+ecc4c7fb460668daaf421540913b1694a6a5820e be1c72449edd9517c642116621872a13d6bb3f85 shivamEspark <shivam.v.rana.2024@gmail.com> 1712912281 +0530	commit: code optimisation
+be1c72449edd9517c642116621872a13d6bb3f85 be1c72449edd9517c642116621872a13d6bb3f85 shivamEspark <shivam.v.rana.2024@gmail.com> 1712912364 +0530	checkout: moving from M1 to temp2
+be1c72449edd9517c642116621872a13d6bb3f85 b4ab9bb352fe82bde6950dc458764d514322146a shivamEspark <shivam.v.rana.2024@gmail.com> 1712912790 +0530	commit (merge): conflict solved
+b4ab9bb352fe82bde6950dc458764d514322146a b4ab9bb352fe82bde6950dc458764d514322146a shivamEspark <shivam.v.rana.2024@gmail.com> 1712912821 +0530	checkout: moving from temp2 to temp2
+b4ab9bb352fe82bde6950dc458764d514322146a be1c72449edd9517c642116621872a13d6bb3f85 shivamEspark <shivam.v.rana.2024@gmail.com> 1712912829 +0530	checkout: moving from temp2 to M1
+be1c72449edd9517c642116621872a13d6bb3f85 c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d shivamEspark <shivam.v.rana.2024@gmail.com> 1712913016 +0530	checkout: moving from M1 to development
+c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d b4ab9bb352fe82bde6950dc458764d514322146a shivamEspark <shivam.v.rana.2024@gmail.com> 1712913073 +0530	checkout: moving from development to temp2
+b4ab9bb352fe82bde6950dc458764d514322146a be1c72449edd9517c642116621872a13d6bb3f85 shivamEspark <shivam.v.rana.2024@gmail.com> 1712913109 +0530	checkout: moving from temp2 to M1
+be1c72449edd9517c642116621872a13d6bb3f85 be1c72449edd9517c642116621872a13d6bb3f85 shivamEspark <shivam.v.rana.2024@gmail.com> 1712913167 +0530	checkout: moving from M1 to M1
+be1c72449edd9517c642116621872a13d6bb3f85 12b29de1dcbe1c7921c90550293d0e38b05f4c7c shivamEspark <shivam.v.rana.2024@gmail.com> 1712913257 +0530	pull origin M1: Merge made by the 'recursive' strategy.
+12b29de1dcbe1c7921c90550293d0e38b05f4c7c 12b29de1dcbe1c7921c90550293d0e38b05f4c7c shivamEspark <shivam.v.rana.2024@gmail.com> 1712913619 +0530	checkout: moving from M1 to M1
+12b29de1dcbe1c7921c90550293d0e38b05f4c7c c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d shivamEspark <shivam.v.rana.2024@gmail.com> 1712913670 +0530	checkout: moving from M1 to development
+c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d 12b29de1dcbe1c7921c90550293d0e38b05f4c7c shivamEspark <shivam.v.rana.2024@gmail.com> 1712913689 +0530	checkout: moving from development to M1
+12b29de1dcbe1c7921c90550293d0e38b05f4c7c 12b29de1dcbe1c7921c90550293d0e38b05f4c7c shivamEspark <shivam.v.rana.2024@gmail.com> 1712915325 +0530	checkout: moving from M1 to M1
+12b29de1dcbe1c7921c90550293d0e38b05f4c7c 4d3dcc2297a30f23ab250997e8c366abc86f86f8 shivamEspark <shivam.v.rana.2024@gmail.com> 1713156303 +0530	commit: save the changes
+4d3dcc2297a30f23ab250997e8c366abc86f86f8 c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d shivamEspark <shivam.v.rana.2024@gmail.com> 1713156319 +0530	checkout: moving from M1 to development
+c2c5b061a6aa4ac657eec4c5a95df2d50b5fb76d bf1ce56e83b2c6523dc1585d36c3f2f957b7d255 shivamEspark <shivam.v.rana.2024@gmail.com> 1713156328 +0530	pull origin development: Fast-forward
+bf1ce56e83b2c6523dc1585d36c3f2f957b7d255 4d3dcc2297a30f23ab250997e8c366abc86f86f8 shivamEspark <shivam.v.rana.2024@gmail.com> 1713156349 +0530	checkout: moving from development to M1
+4d3dcc2297a30f23ab250997e8c366abc86f86f8 a0cfb313f11708b21b436710f9072fb745b8c044 shivamEspark <shivam.v.rana.2024@gmail.com> 1713158222 +0530	commit (merge): saved new changes from devlopment and resolve the conflicts
+a0cfb313f11708b21b436710f9072fb745b8c044 bf1ce56e83b2c6523dc1585d36c3f2f957b7d255 shivamEspark <shivam.v.rana.2024@gmail.com> 1713158295 +0530	checkout: moving from M1 to development
+bf1ce56e83b2c6523dc1585d36c3f2f957b7d255 f138ad25422a0f00729e6954baa7677b0b59528d shivamEspark <shivam.v.rana.2024@gmail.com> 1713158796 +0530	commit: separating userProfile from dashboard for new page
+f138ad25422a0f00729e6954baa7677b0b59528d a0cfb313f11708b21b436710f9072fb745b8c044 shivamEspark <shivam.v.rana.2024@gmail.com> 1713158805 +0530	checkout: moving from development to M1
+a0cfb313f11708b21b436710f9072fb745b8c044 53bccf0c613e5973b8d55e7d9d306234df32f31c shivamEspark <shivam.v.rana.2024@gmail.com> 1713167535 +0530	commit: re arranged the profile (dashboard included in profile) and data feeded in two both forms
+53bccf0c613e5973b8d55e7d9d306234df32f31c 3e3c1b7633168586b9af8ea9e3a0ab40fd8198e7 shivamEspark <shivam.v.rana.2024@gmail.com> 1713173094 +0530	commit: update profile finished
+3e3c1b7633168586b9af8ea9e3a0ab40fd8198e7 53c1106b6fbe6a7bcd0453864b63e4431aa0adac shivamEspark <shivam.v.rana.2024@gmail.com> 1713174241 +0530	commit: some minor changes
+53c1106b6fbe6a7bcd0453864b63e4431aa0adac c95ef9dad1e9a22de6e6cfbd480bd9bdb4464426 shivamEspark <shivam.v.rana.2024@gmail.com> 1713175274 +0530	commit: changed the file user profile file location and made it global
+c95ef9dad1e9a22de6e6cfbd480bd9bdb4464426 c95ef9dad1e9a22de6e6cfbd480bd9bdb4464426 shivamEspark <shivam.v.rana.2024@gmail.com> 1713186031 +0530	reset: moving to HEAD
+c95ef9dad1e9a22de6e6cfbd480bd9bdb4464426 45f77c19e50ff074970731b9ea8094c0edafc329 shivamEspark <shivam.v.rana.2024@gmail.com> 1713186084 +0530	commit: profile pic table added in db, some minor changes in profile
+45f77c19e50ff074970731b9ea8094c0edafc329 a43d348edc26765c418dc4a87e756373db785a36 shivamEspark <shivam.v.rana.2024@gmail.com> 1713246595 +0530	commit: validation added empty, min, max, date, dob, email, numeric, etc
+a43d348edc26765c418dc4a87e756373db785a36 0f51c0db2ea2ceef69a0276a8fb7969c94757852 shivamEspark <shivam.v.rana.2024@gmail.com> 1713246793 +0530	commit: code alignment set
+0f51c0db2ea2ceef69a0276a8fb7969c94757852 914ceb5c935fea0cfd9a2a5b51f3591d65d2f94a shivamEspark <shivam.v.rana.2024@gmail.com> 1713250643 +0530	commit: multer utility added
+914ceb5c935fea0cfd9a2a5b51f3591d65d2f94a f138ad25422a0f00729e6954baa7677b0b59528d shivamEspark <shivam.v.rana.2024@gmail.com> 1713250661 +0530	checkout: moving from M1 to development
+f138ad25422a0f00729e6954baa7677b0b59528d 18168e1b209469974f954a308e2bb6defe712951 shivamEspark <shivam.v.rana.2024@gmail.com> 1713250784 +0530	commit (merge): Merge branch 'development' of https://gitlab.taskgrids.com/2024/m_/subgroup-m-maroon/online-exam-system into development
+18168e1b209469974f954a308e2bb6defe712951 914ceb5c935fea0cfd9a2a5b51f3591d65d2f94a shivamEspark <shivam.v.rana.2024@gmail.com> 1713250799 +0530	checkout: moving from development to M1
+914ceb5c935fea0cfd9a2a5b51f3591d65d2f94a a87850c3cb4eef42ae56053ed0fabe246acbe6d7 shivamEspark <shivam.v.rana.2024@gmail.com> 1713250808 +0530	merge development: Merge made by the 'recursive' strategy.
+a87850c3cb4eef42ae56053ed0fabe246acbe6d7 9ca8f67ca440df3f9dca3209ccb5bf00ce2d5aa1 shivamEspark <shivam.v.rana.2024@gmail.com> 1713275278 +0530	commit: profile upload using multer, code restucture formdata
+9ca8f67ca440df3f9dca3209ccb5bf00ce2d5aa1 e3fe42d6346da32e473064a6c6ee4328b43bb001 shivamEspark <shivam.v.rana.2024@gmail.com> 1713326870 +0530	commit: some modification in validation
+e3fe42d6346da32e473064a6c6ee4328b43bb001 18168e1b209469974f954a308e2bb6defe712951 shivamEspark <shivam.v.rana.2024@gmail.com> 1713326879 +0530	checkout: moving from M1 to development
+18168e1b209469974f954a308e2bb6defe712951 bdb19499ade7066d56d846a8c1e756a2c75d78c8 shivamEspark <shivam.v.rana.2024@gmail.com> 1713326892 +0530	pull origin development: Fast-forward
+bdb19499ade7066d56d846a8c1e756a2c75d78c8 e3fe42d6346da32e473064a6c6ee4328b43bb001 shivamEspark <shivam.v.rana.2024@gmail.com> 1713326933 +0530	checkout: moving from development to M1
+e3fe42d6346da32e473064a6c6ee4328b43bb001 9b1f97c1b34e17215a5b1a9c8210b2ccb6f6e331 shivamEspark <shivam.v.rana.2024@gmail.com> 1713329914 +0530	commit: image stored in db
+9b1f97c1b34e17215a5b1a9c8210b2ccb6f6e331 bdb19499ade7066d56d846a8c1e756a2c75d78c8 shivamEspark <shivam.v.rana.2024@gmail.com> 1713329921 +0530	checkout: moving from M1 to development
+bdb19499ade7066d56d846a8c1e756a2c75d78c8 5a479ec36df0a328a954b39c2773e53f9bb6618e shivamEspark <shivam.v.rana.2024@gmail.com> 1713329935 +0530	pull origin development: Fast-forward
+5a479ec36df0a328a954b39c2773e53f9bb6618e 9b1f97c1b34e17215a5b1a9c8210b2ccb6f6e331 shivamEspark <shivam.v.rana.2024@gmail.com> 1713330357 +0530	checkout: moving from development to M1
+9b1f97c1b34e17215a5b1a9c8210b2ccb6f6e331 fb04925f4b3ff8a84486e53a8228185d383e1a47 shivamEspark <shivam.v.rana.2024@gmail.com> 1713330368 +0530	merge development: Merge made by the 'recursive' strategy.
+fb04925f4b3ff8a84486e53a8228185d383e1a47 0999343b03eea1c04a080ba5351d5f4d12b54642 shivamEspark <shivam.v.rana.2024@gmail.com> 1713347770 +0530	commit: some code improvements
+0999343b03eea1c04a080ba5351d5f4d12b54642 da4c85ee087726b1744a4864204ab60c0c64fa96 shivamEspark <shivam.v.rana.2024@gmail.com> 1713359274 +0530	commit: image loaded with hidden path, back end controller, db handlings
+da4c85ee087726b1744a4864204ab60c0c64fa96 5a479ec36df0a328a954b39c2773e53f9bb6618e shivamEspark <shivam.v.rana.2024@gmail.com> 1713360896 +0530	checkout: moving from M1 to development
+5a479ec36df0a328a954b39c2773e53f9bb6618e 878bd78b8d935b68c4beb45f6bbc3a322843a565 shivamEspark <shivam.v.rana.2024@gmail.com> 1713360905 +0530	pull origin development: Fast-forward
+878bd78b8d935b68c4beb45f6bbc3a322843a565 da4c85ee087726b1744a4864204ab60c0c64fa96 shivamEspark <shivam.v.rana.2024@gmail.com> 1713360912 +0530	checkout: moving from development to M1
+da4c85ee087726b1744a4864204ab60c0c64fa96 9e3c79410df5fb3c33044c5dffa4210afd641914 shivamEspark <shivam.v.rana.2024@gmail.com> 1713418044 +0530	commit (merge): frontend file validation and links added
+9e3c79410df5fb3c33044c5dffa4210afd641914 878bd78b8d935b68c4beb45f6bbc3a322843a565 shivamEspark <shivam.v.rana.2024@gmail.com> 1713418053 +0530	checkout: moving from M1 to development
+878bd78b8d935b68c4beb45f6bbc3a322843a565 4bd02dd547dfcfe578f1b7484d047c770b6525f4 shivamEspark <shivam.v.rana.2024@gmail.com> 1713418060 +0530	pull origin development: Fast-forward
+4bd02dd547dfcfe578f1b7484d047c770b6525f4 9e3c79410df5fb3c33044c5dffa4210afd641914 shivamEspark <shivam.v.rana.2024@gmail.com> 1713418067 +0530	checkout: moving from development to M1
+9e3c79410df5fb3c33044c5dffa4210afd641914 6d3f87ddbc0216c4d061d8bcf675f65860bb01a3 shivamEspark <shivam.v.rana.2024@gmail.com> 1713418338 +0530	commit (merge): resolved local confilcts while pull and merge from development
+6d3f87ddbc0216c4d061d8bcf675f65860bb01a3 87edcbbbdb1877f4ef2ab31f55bd6640fa278c2d shivamEspark <shivam.v.rana.2024@gmail.com> 1713423259 +0530	commit: alignment related fixes
+87edcbbbdb1877f4ef2ab31f55bd6640fa278c2d d1648e07d5b1ffd8fbe7386ff65ccbe7b1f6c4ec shivamEspark <shivam.v.rana.2024@gmail.com> 1713445583 +0530	commit: forget password added code modularisation
+d1648e07d5b1ffd8fbe7386ff65ccbe7b1f6c4ec 06ac0da4d7c755cf3255e0558c56d74b6e132b75 shivamEspark <shivam.v.rana.2024@gmail.com> 1713445590 +0530	checkout: moving from M1 to M7
+06ac0da4d7c755cf3255e0558c56d74b6e132b75 029e8c52ad618b935b475980cede7edcab38219f shivamEspark <shivam.v.rana.2024@gmail.com> 1713445739 +0530	commit: for branch checkout saved
+029e8c52ad618b935b475980cede7edcab38219f 8612eda2bc598486357fc533c714fd6094ffc31d shivamEspark <shivam.v.rana.2024@gmail.com> 1713445810 +0530	revert: Revert "for branch checkout saved"
+8612eda2bc598486357fc533c714fd6094ffc31d 8610af7258d79f34972524f2c0d54031f7d9bf90 shivamEspark <shivam.v.rana.2024@gmail.com> 1713446263 +0530	commit: git ignore edited
+8610af7258d79f34972524f2c0d54031f7d9bf90 d1648e07d5b1ffd8fbe7386ff65ccbe7b1f6c4ec shivamEspark <shivam.v.rana.2024@gmail.com> 1713446270 +0530	checkout: moving from M7 to M1
+d1648e07d5b1ffd8fbe7386ff65ccbe7b1f6c4ec 20a2e67462ce8744df9f03c6159abb330a739192 shivamEspark <shivam.v.rana.2024@gmail.com> 1713447322 +0530	commit: updated forget password
+20a2e67462ce8744df9f03c6159abb330a739192 fb66d4df398eadacd049b38aa9f33930d7a51d80 shivamEspark <shivam.v.rana.2024@gmail.com> 1713447328 +0530	checkout: moving from M1 to M4
+fb66d4df398eadacd049b38aa9f33930d7a51d80 e00ec3fc2eeb544cfa21874ba4c7ff832656eca6 shivamEspark <shivam.v.rana.2024@gmail.com> 1713447353 +0530	pull origin M4: Fast-forward
+e00ec3fc2eeb544cfa21874ba4c7ff832656eca6 4bd02dd547dfcfe578f1b7484d047c770b6525f4 shivamEspark <shivam.v.rana.2024@gmail.com> 1713447393 +0530	checkout: moving from M4 to development
+4bd02dd547dfcfe578f1b7484d047c770b6525f4 dd0e3e26bece5e9b3c5f05d14727032c3488c15b shivamEspark <shivam.v.rana.2024@gmail.com> 1713447409 +0530	pull origin development: Fast-forward
+dd0e3e26bece5e9b3c5f05d14727032c3488c15b e00ec3fc2eeb544cfa21874ba4c7ff832656eca6 shivamEspark <shivam.v.rana.2024@gmail.com> 1713447421 +0530	checkout: moving from development to M4
+e00ec3fc2eeb544cfa21874ba4c7ff832656eca6 70efe59d8e819934804c0fa4843d6f9dcc0782e8 shivamEspark <shivam.v.rana.2024@gmail.com> 1713447538 +0530	commit (merge): confict resovled M4
+70efe59d8e819934804c0fa4843d6f9dcc0782e8 20a2e67462ce8744df9f03c6159abb330a739192 shivamEspark <shivam.v.rana.2024@gmail.com> 1713448322 +0530	checkout: moving from M4 to M1
+20a2e67462ce8744df9f03c6159abb330a739192 dd0e3e26bece5e9b3c5f05d14727032c3488c15b shivamEspark <shivam.v.rana.2024@gmail.com> 1713448906 +0530	checkout: moving from M1 to development
+dd0e3e26bece5e9b3c5f05d14727032c3488c15b 39e86777e9818fe85693f0abf97315a64fc528ae shivamEspark <shivam.v.rana.2024@gmail.com> 1713448923 +0530	pull origin development: Fast-forward
+39e86777e9818fe85693f0abf97315a64fc528ae 348083ac5c8b51702d229a02380c36f0d42248bb shivamEspark <shivam.v.rana.2024@gmail.com> 1713448959 +0530	checkout: moving from development to M5
+348083ac5c8b51702d229a02380c36f0d42248bb 737784f5091b7ce608df4fdfc506fc459ea1e684 shivamEspark <shivam.v.rana.2024@gmail.com> 1713449527 +0530	commit (merge): conflict solved M5
+737784f5091b7ce608df4fdfc506fc459ea1e684 20a2e67462ce8744df9f03c6159abb330a739192 shivamEspark <shivam.v.rana.2024@gmail.com> 1713449593 +0530	checkout: moving from M5 to M1
+20a2e67462ce8744df9f03c6159abb330a739192 39e86777e9818fe85693f0abf97315a64fc528ae shivamEspark <shivam.v.rana.2024@gmail.com> 1713449779 +0530	checkout: moving from M1 to development
+39e86777e9818fe85693f0abf97315a64fc528ae feddb7080bd854ff4aa26aad308d05bcc4fb39fe shivamEspark <shivam.v.rana.2024@gmail.com> 1713449785 +0530	pull origin development: Fast-forward
+feddb7080bd854ff4aa26aad308d05bcc4fb39fe 20a2e67462ce8744df9f03c6159abb330a739192 shivamEspark <shivam.v.rana.2024@gmail.com> 1713449794 +0530	checkout: moving from development to M1
+20a2e67462ce8744df9f03c6159abb330a739192 d03178426d6f0c10560f3237dbf66e5d5b1ddd8c shivamEspark <shivam.v.rana.2024@gmail.com> 1713450152 +0530	commit (merge): confict resolved M1
+d03178426d6f0c10560f3237dbf66e5d5b1ddd8c ff2d803a1af9e9c5d6848b8ab1140f040f0d1727 shivamEspark <shivam.v.rana.2024@gmail.com> 1713529351 +0530	commit: forget password module done
+ff2d803a1af9e9c5d6848b8ab1140f040f0d1727 be635db06cd44cb9a970cbf5b0c912114ce5bd02 shivamEspark <shivam.v.rana.2024@gmail.com> 1713533631 +0530	commit: forget password module and bug fixes
+be635db06cd44cb9a970cbf5b0c912114ce5bd02 be1ad3a8b099f5110e106059c766d7781832cf2a shivamEspark <shivam.v.rana.2024@gmail.com> 1713591846 +0530	commit: image bug fixes
+be1ad3a8b099f5110e106059c766d7781832cf2a feddb7080bd854ff4aa26aad308d05bcc4fb39fe shivamEspark <shivam.v.rana.2024@gmail.com> 1713591858 +0530	checkout: moving from M1 to development
+feddb7080bd854ff4aa26aad308d05bcc4fb39fe 60b439f74ca96b1fc355ec7f4bf7c2444432c436 shivamEspark <shivam.v.rana.2024@gmail.com> 1713591917 +0530	pull origin development: Fast-forward
+60b439f74ca96b1fc355ec7f4bf7c2444432c436 be1ad3a8b099f5110e106059c766d7781832cf2a shivamEspark <shivam.v.rana.2024@gmail.com> 1713591930 +0530	checkout: moving from development to M1
+be1ad3a8b099f5110e106059c766d7781832cf2a fb1cf501410b5dea4d866679d4f20a57a033226e shivamEspark <shivam.v.rana.2024@gmail.com> 1713592289 +0530	commit (merge): confict solved
+fb1cf501410b5dea4d866679d4f20a57a033226e 243c7dd5bdc078ad7f6ef7f2843682d513744a33 shivamEspark <shivam.v.rana.2024@gmail.com> 1713618172 +0530	commit: created exam results page
+243c7dd5bdc078ad7f6ef7f2843682d513744a33 7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 shivamEspark <shivam.v.rana.2024@gmail.com> 1713622296 +0530	commit: result page with values
+7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 60b439f74ca96b1fc355ec7f4bf7c2444432c436 shivamEspark <shivam.v.rana.2024@gmail.com> 1713622340 +0530	checkout: moving from M1 to development
+60b439f74ca96b1fc355ec7f4bf7c2444432c436 bb084dd229ee9a0a59b1e97c426c16961f7dd41f shivamEspark <shivam.v.rana.2024@gmail.com> 1713622352 +0530	pull origin development: Fast-forward
+bb084dd229ee9a0a59b1e97c426c16961f7dd41f 7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 shivamEspark <shivam.v.rana.2024@gmail.com> 1713622364 +0530	checkout: moving from development to M1
+7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 shivamEspark <shivam.v.rana.2024@gmail.com> 1713622511 +0530	checkout: moving from M1 to tempM1
+7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 shivamEspark <shivam.v.rana.2024@gmail.com> 1713622526 +0530	checkout: moving from tempM1 to M1
+7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 93e9d72db0f3700284b71a567c7680454efe9490 shivamEspark <shivam.v.rana.2024@gmail.com> 1713624357 +0530	commit: image path set
+93e9d72db0f3700284b71a567c7680454efe9490 af81ac886b8e4ccad8bc9e67d7d79841db0a4269 shivamEspark <shivam.v.rana.2024@gmail.com> 1713761420 +0530	commit: image will dipsplay on upload and validation fixes
+af81ac886b8e4ccad8bc9e67d7d79841db0a4269 bb084dd229ee9a0a59b1e97c426c16961f7dd41f shivamEspark <shivam.v.rana.2024@gmail.com> 1713761427 +0530	checkout: moving from M1 to development
+bb084dd229ee9a0a59b1e97c426c16961f7dd41f 3845df03460de44d6175f3574cecdeda5a87a7a5 shivamEspark <shivam.v.rana.2024@gmail.com> 1713761438 +0530	pull origin development: Fast-forward
+3845df03460de44d6175f3574cecdeda5a87a7a5 af81ac886b8e4ccad8bc9e67d7d79841db0a4269 shivamEspark <shivam.v.rana.2024@gmail.com> 1713761451 +0530	checkout: moving from development to M1
+af81ac886b8e4ccad8bc9e67d7d79841db0a4269 2912d8ccaa7f33c7fc06c888116660663db7fe9f shivamEspark <shivam.v.rana.2024@gmail.com> 1713761467 +0530	merge development: Merge made by the 'recursive' strategy.
+2912d8ccaa7f33c7fc06c888116660663db7fe9f 2912d8ccaa7f33c7fc06c888116660663db7fe9f shivamEspark <shivam.v.rana.2024@gmail.com> 1713769697 +0530	checkout: moving from M1 to tempM7
+2912d8ccaa7f33c7fc06c888116660663db7fe9f 0b2575e2f44f5c3b24ad2e94c9fd1d861eea4b30 shivamEspark <shivam.v.rana.2024@gmail.com> 1713769705 +0530	pull origin M7: Merge made by the 'recursive' strategy.
+0b2575e2f44f5c3b24ad2e94c9fd1d861eea4b30 2912d8ccaa7f33c7fc06c888116660663db7fe9f shivamEspark <shivam.v.rana.2024@gmail.com> 1713770143 +0530	checkout: moving from tempM7 to M1
+2912d8ccaa7f33c7fc06c888116660663db7fe9f 3c77f1fbcf99761776e95105fa06002176ba5673 shivamEspark <shivam.v.rana.2024@gmail.com> 1713786934 +0530	commit: logout in users
+3c77f1fbcf99761776e95105fa06002176ba5673 da4796658b82ac1ad42acf990b9cac97464c6d96 shivamEspark <shivam.v.rana.2024@gmail.com> 1713792661 +0530	commit: remove profile picture added with some bug fixes
+da4796658b82ac1ad42acf990b9cac97464c6d96 3845df03460de44d6175f3574cecdeda5a87a7a5 shivamEspark <shivam.v.rana.2024@gmail.com> 1713792667 +0530	checkout: moving from M1 to development
+3845df03460de44d6175f3574cecdeda5a87a7a5 aa8a46d018b8b832c198c49b8454d63756143653 shivamEspark <shivam.v.rana.2024@gmail.com> 1713792676 +0530	pull origin development: Fast-forward
+aa8a46d018b8b832c198c49b8454d63756143653 aa8a46d018b8b832c198c49b8454d63756143653 shivamEspark <shivam.v.rana.2024@gmail.com> 1713792756 +0530	checkout: moving from development to development
+aa8a46d018b8b832c198c49b8454d63756143653 da4796658b82ac1ad42acf990b9cac97464c6d96 shivamEspark <shivam.v.rana.2024@gmail.com> 1713792796 +0530	checkout: moving from development to M1
+da4796658b82ac1ad42acf990b9cac97464c6d96 b7935d707cfca4317a75b0012eb280958aa19d15 shivamEspark <shivam.v.rana.2024@gmail.com> 1713794162 +0530	commit: styling realted changes
+b7935d707cfca4317a75b0012eb280958aa19d15 4cb1c303bef97aa392a9f07ced9c9776fbbe2741 shivamEspark <shivam.v.rana.2024@gmail.com> 1713794592 +0530	commit (merge): new dev changes Accepted
+4cb1c303bef97aa392a9f07ced9c9776fbbe2741 af0eed5ec328470efb463133a413bcdeee534f19 shivamEspark <shivam.v.rana.2024@gmail.com> 1713796583 +0530	commit: some minor chagnes after pull
+af0eed5ec328470efb463133a413bcdeee534f19 0e43f4dd85d445825bb0f351c2ecf556f9b2120e shivamEspark <shivam.v.rana.2024@gmail.com> 1713845135 +0530	commit: sovled the bug
+0e43f4dd85d445825bb0f351c2ecf556f9b2120e aa8a46d018b8b832c198c49b8454d63756143653 shivamEspark <shivam.v.rana.2024@gmail.com> 1713845161 +0530	checkout: moving from M1 to development
+aa8a46d018b8b832c198c49b8454d63756143653 13f8028bed01bbfc49d4b01bf577e9f284d725c3 shivamEspark <shivam.v.rana.2024@gmail.com> 1713845167 +0530	pull origin development: Fast-forward
+13f8028bed01bbfc49d4b01bf577e9f284d725c3 0e43f4dd85d445825bb0f351c2ecf556f9b2120e shivamEspark <shivam.v.rana.2024@gmail.com> 1713845173 +0530	checkout: moving from development to M1
+0e43f4dd85d445825bb0f351c2ecf556f9b2120e 8f37dfeb647dafaa2b09c6593d38aa9af1713313 shivamEspark <shivam.v.rana.2024@gmail.com> 1713845473 +0530	commit (merge): conflict solved
+8f37dfeb647dafaa2b09c6593d38aa9af1713313 a12eb1eea0a95dffa3ff558fa32b1fc57d89a155 shivamEspark <shivam.v.rana.2024@gmail.com> 1713847850 +0530	commit: chagnes made for the logs.log in git ingnore
+a12eb1eea0a95dffa3ff558fa32b1fc57d89a155 a52763fa6fba1d87b06f847369a8367b4f30efb4 shivamEspark <shivam.v.rana.2024@gmail.com> 1713852800 +0530	commit: commit for bugs remove and test
+a52763fa6fba1d87b06f847369a8367b4f30efb4 13f8028bed01bbfc49d4b01bf577e9f284d725c3 shivamEspark <shivam.v.rana.2024@gmail.com> 1713852805 +0530	checkout: moving from M1 to development
+13f8028bed01bbfc49d4b01bf577e9f284d725c3 962c8b78ae35e8ada13db83966fc4b575c83837d shivamEspark <shivam.v.rana.2024@gmail.com> 1713852818 +0530	pull origin development: Fast-forward
+962c8b78ae35e8ada13db83966fc4b575c83837d 9be2ae32d8e635da6d28f730417c410798387b93 shivamEspark <shivam.v.rana.2024@gmail.com> 1713853349 +0530	commit: merging related fixes
+9be2ae32d8e635da6d28f730417c410798387b93 a52763fa6fba1d87b06f847369a8367b4f30efb4 shivamEspark <shivam.v.rana.2024@gmail.com> 1713853354 +0530	checkout: moving from development to M1
+a52763fa6fba1d87b06f847369a8367b4f30efb4 0a7105e5eca8a63bed9919322ed22457f29f3c9d shivamEspark <shivam.v.rana.2024@gmail.com> 1713853362 +0530	merge development: Merge made by the 'recursive' strategy.
+0a7105e5eca8a63bed9919322ed22457f29f3c9d 47e5258f24fd1b0fff01ce98a5e4775d743d821b shivamEspark <shivam.v.rana.2024@gmail.com> 1713866530 +0530	commit: view results module added
+47e5258f24fd1b0fff01ce98a5e4775d743d821b c027e6704fab1ef0e01ddd2a31404153d728dccb shivamEspark <shivam.v.rana.2024@gmail.com> 1713869282 +0530	commit: code impovement
+c027e6704fab1ef0e01ddd2a31404153d728dccb 916a7f4416f6b7e47eb02a2c695559c9118c7ba2 shivamEspark <shivam.v.rana.2024@gmail.com> 1713878569 +0530	commit: local css for profile and added aleart on logout and some bug fixes
+916a7f4416f6b7e47eb02a2c695559c9118c7ba2 9794a85758082ac566f1450d5c6b4189ae287f74 shivamEspark <shivam.v.rana.2024@gmail.com> 1713879488 +0530	commit: removed boostrap web classes
+9794a85758082ac566f1450d5c6b4189ae287f74 7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 shivamEspark <shivam.v.rana.2024@gmail.com> 1713879587 +0530	checkout: moving from M1 to tempM1
+7cf5743d4cbefd0f7115eac013e52ce4d6a016f2 352b9c2788be17d9c42008f056f2f5cb00888f7a shivamEspark <shivam.v.rana.2024@gmail.com> 1713879596 +0530	pull origin M1: Fast-forward
+352b9c2788be17d9c42008f056f2f5cb00888f7a 9794a85758082ac566f1450d5c6b4189ae287f74 shivamEspark <shivam.v.rana.2024@gmail.com> 1713879604 +0530	checkout: moving from tempM1 to M1
+9794a85758082ac566f1450d5c6b4189ae287f74 8b6b3b3ee6993476e593b799958b6ad70a84b315 shivamEspark <shivam.v.rana.2024@gmail.com> 1713879739 +0530	commit (merge): some changes
+8b6b3b3ee6993476e593b799958b6ad70a84b315 52e3aab1e5ddb9447758da657969e99d48ce463d shivamEspark <shivam.v.rana.2024@gmail.com> 1713882462 +0530	commit: zipcode realted validation fixes
+52e3aab1e5ddb9447758da657969e99d48ce463d 5cf03a4d6ffa02855d91ea6a540f44e16d856cce shivamEspark <shivam.v.rana.2024@gmail.com> 1713941572 +0530	commit: commit for save chagnes and component for pdf added
+5cf03a4d6ffa02855d91ea6a540f44e16d856cce 9be2ae32d8e635da6d28f730417c410798387b93 shivamEspark <shivam.v.rana.2024@gmail.com> 1713941578 +0530	checkout: moving from M1 to development
+9be2ae32d8e635da6d28f730417c410798387b93 139263037eff0fd12d8e82e43c1e292d9d7d8986 shivamEspark <shivam.v.rana.2024@gmail.com> 1713941587 +0530	pull origin development: Fast-forward
+139263037eff0fd12d8e82e43c1e292d9d7d8986 5cf03a4d6ffa02855d91ea6a540f44e16d856cce shivamEspark <shivam.v.rana.2024@gmail.com> 1713941594 +0530	checkout: moving from development to M1
+5cf03a4d6ffa02855d91ea6a540f44e16d856cce 235d4480ed05e7266afdafcbc336294e285ab9d4 shivamEspark <shivam.v.rana.2024@gmail.com> 1713941667 +0530	commit (merge): merged from development
+235d4480ed05e7266afdafcbc336294e285ab9d4 235d4480ed05e7266afdafcbc336294e285ab9d4 shivamEspark <shivam.v.rana.2024@gmail.com> 1713958410 +0530	reset: moving to HEAD
+235d4480ed05e7266afdafcbc336294e285ab9d4 8db7a5fc556ca3f516dd9928d4acbf9ce9b55341 shivamEspark <shivam.v.rana.2024@gmail.com> 1713958587 +0530	commit: the bugs and result code fixes
+8db7a5fc556ca3f516dd9928d4acbf9ce9b55341 f5947d03f7aae65f22e7df458ab58104671231ff shivamEspark <shivam.v.rana.2024@gmail.com> 1714019006 +0530	commit: generating pdf using puppetter p:unable to laod css
+f5947d03f7aae65f22e7df458ab58104671231ff c6d948336fef8042554de5dde13d0a9cd000d81b shivamEspark <shivam.v.rana.2024@gmail.com> 1714033173 +0530	commit: pdf generator and pie chart
+c6d948336fef8042554de5dde13d0a9cd000d81b 139263037eff0fd12d8e82e43c1e292d9d7d8986 shivamEspark <shivam.v.rana.2024@gmail.com> 1714033180 +0530	checkout: moving from M1 to development
+139263037eff0fd12d8e82e43c1e292d9d7d8986 7a2d418ba9d8b5af3034601895f5591327c40655 shivamEspark <shivam.v.rana.2024@gmail.com> 1714033194 +0530	pull origin development: Fast-forward
+7a2d418ba9d8b5af3034601895f5591327c40655 c6d948336fef8042554de5dde13d0a9cd000d81b shivamEspark <shivam.v.rana.2024@gmail.com> 1714033580 +0530	checkout: moving from development to M1
+c6d948336fef8042554de5dde13d0a9cd000d81b f12d2c14a74f60df0d5409cc07a3b80d714d5c54 shivamEspark <shivam.v.rana.2024@gmail.com> 1714034283 +0530	commit (merge): merged development
+f12d2c14a74f60df0d5409cc07a3b80d714d5c54 4305fe858a65627f36ae7824eb54a3b753a6e4c9 shivamEspark <shivam.v.rana.2024@gmail.com> 1714052269 +0530	commit: score wise chart added into the result
+4305fe858a65627f36ae7824eb54a3b753a6e4c9 2d339d738e6d68ff439576aaf4a29b6011bce044 shivamEspark <shivam.v.rana.2024@gmail.com> 1714104626 +0530	commit: user button image and view resuls improvment
+2d339d738e6d68ff439576aaf4a29b6011bce044 7a2d418ba9d8b5af3034601895f5591327c40655 shivamEspark <shivam.v.rana.2024@gmail.com> 1714104634 +0530	checkout: moving from M1 to development
+7a2d418ba9d8b5af3034601895f5591327c40655 7854eaea8d272929e837b3f4c9970e9caa7ffc62 shivamEspark <shivam.v.rana.2024@gmail.com> 1714104650 +0530	pull origin development: Fast-forward
+7854eaea8d272929e837b3f4c9970e9caa7ffc62 57f610e4f23003d5276978c5b08c2aaafe875062 shivamEspark <shivam.v.rana.2024@gmail.com> 1714104699 +0530	pull origin development: Fast-forward
+57f610e4f23003d5276978c5b08c2aaafe875062 2d339d738e6d68ff439576aaf4a29b6011bce044 shivamEspark <shivam.v.rana.2024@gmail.com> 1714104717 +0530	checkout: moving from development to M1
+2d339d738e6d68ff439576aaf4a29b6011bce044 3844c647c05738560ad6ae0e9211d8fe335d1493 shivamEspark <shivam.v.rana.2024@gmail.com> 1714104772 +0530	merge development: Merge made by the 'recursive' strategy.
+3844c647c05738560ad6ae0e9211d8fe335d1493 984308c12182c754e546eb98ba62c5bb28b1752f shivamEspark <shivam.v.rana.2024@gmail.com> 1714139664 +0530	commit: score card table and the component and chart competible to firefox added
+984308c12182c754e546eb98ba62c5bb28b1752f 57f610e4f23003d5276978c5b08c2aaafe875062 shivamEspark <shivam.v.rana.2024@gmail.com> 1714139673 +0530	checkout: moving from M1 to development
+57f610e4f23003d5276978c5b08c2aaafe875062 6cc4083770f19bad12f9597fae5418d888107904 shivamEspark <shivam.v.rana.2024@gmail.com> 1714139687 +0530	pull origin development: Fast-forward
+6cc4083770f19bad12f9597fae5418d888107904 8610af7258d79f34972524f2c0d54031f7d9bf90 shivamEspark <shivam.v.rana.2024@gmail.com> 1714139699 +0530	checkout: moving from development to M7
+8610af7258d79f34972524f2c0d54031f7d9bf90 d2130976825c8e8906b85b8eaf1fdc58575d4c77 shivamEspark <shivam.v.rana.2024@gmail.com> 1714139921 +0530	commit (merge): git ignore related conflict solved in M7
+d2130976825c8e8906b85b8eaf1fdc58575d4c77 6cc4083770f19bad12f9597fae5418d888107904 shivamEspark <shivam.v.rana.2024@gmail.com> 1714139926 +0530	checkout: moving from M7 to development
+6cc4083770f19bad12f9597fae5418d888107904 d2130976825c8e8906b85b8eaf1fdc58575d4c77 shivamEspark <shivam.v.rana.2024@gmail.com> 1714139959 +0530	checkout: moving from development to M7
+d2130976825c8e8906b85b8eaf1fdc58575d4c77 0628d3baf6f87031be7583c391ca344e843d37a2 shivamEspark <shivam.v.rana.2024@gmail.com> 1714140180 +0530	commit (merge): conflict solved for M7
+0628d3baf6f87031be7583c391ca344e843d37a2 5b02c705af27f40172266e24366df1659645624d shivamEspark <shivam.v.rana.2024@gmail.com> 1714140316 +0530	checkout: moving from M7 to M3
+5b02c705af27f40172266e24366df1659645624d 9588054b794ab4998420f17011459dccc00c9085 shivamEspark <shivam.v.rana.2024@gmail.com> 1714140324 +0530	pull origin M3: Fast-forward
+9588054b794ab4998420f17011459dccc00c9085 6cc4083770f19bad12f9597fae5418d888107904 shivamEspark <shivam.v.rana.2024@gmail.com> 1714140359 +0530	checkout: moving from M3 to development
+6cc4083770f19bad12f9597fae5418d888107904 7f2a06c8684fade882ce8c58f9bc1868feb4fba2 shivamEspark <shivam.v.rana.2024@gmail.com> 1714140369 +0530	pull origin development: Fast-forward
+7f2a06c8684fade882ce8c58f9bc1868feb4fba2 9588054b794ab4998420f17011459dccc00c9085 shivamEspark <shivam.v.rana.2024@gmail.com> 1714140374 +0530	checkout: moving from development to M3
+9588054b794ab4998420f17011459dccc00c9085 00772cb11ce203974601010ae2632c0236e5b5df shivamEspark <shivam.v.rana.2024@gmail.com> 1714140502 +0530	commit (merge): conflict M3 solved
+00772cb11ce203974601010ae2632c0236e5b5df 97883d90114050b6b35d4ffa3f4a121ccd61bc41 shivamEspark <shivam.v.rana.2024@gmail.com> 1714140533 +0530	checkout: moving from M3 to M2
+97883d90114050b6b35d4ffa3f4a121ccd61bc41 2ccb03c8bdd660f32aa052b11b6ed68bc9e37fee shivamEspark <shivam.v.rana.2024@gmail.com> 1714140545 +0530	pull origin M2: Fast-forward
+2ccb03c8bdd660f32aa052b11b6ed68bc9e37fee 7f2a06c8684fade882ce8c58f9bc1868feb4fba2 shivamEspark <shivam.v.rana.2024@gmail.com> 1714140559 +0530	checkout: moving from M2 to development
+7f2a06c8684fade882ce8c58f9bc1868feb4fba2 641d3d42ea18baac889b0d353eb77dff4f7e37ba shivamEspark <shivam.v.rana.2024@gmail.com> 1714140567 +0530	pull origin development: Fast-forward
+641d3d42ea18baac889b0d353eb77dff4f7e37ba 2ccb03c8bdd660f32aa052b11b6ed68bc9e37fee shivamEspark <shivam.v.rana.2024@gmail.com> 1714140572 +0530	checkout: moving from development to M2
+2ccb03c8bdd660f32aa052b11b6ed68bc9e37fee 1f86dc486a49601947912426f1d0f73ddcbbdefb shivamEspark <shivam.v.rana.2024@gmail.com> 1714140862 +0530	commit (merge): conflict solved M2
+1f86dc486a49601947912426f1d0f73ddcbbdefb 984308c12182c754e546eb98ba62c5bb28b1752f shivamEspark <shivam.v.rana.2024@gmail.com> 1714140904 +0530	checkout: moving from M2 to M1
+984308c12182c754e546eb98ba62c5bb28b1752f 641d3d42ea18baac889b0d353eb77dff4f7e37ba shivamEspark <shivam.v.rana.2024@gmail.com> 1714140912 +0530	checkout: moving from M1 to development
+641d3d42ea18baac889b0d353eb77dff4f7e37ba cbf0658ff81e62822e67495fb9ae359dd96d270b shivamEspark <shivam.v.rana.2024@gmail.com> 1714140918 +0530	pull origin development: Fast-forward
+cbf0658ff81e62822e67495fb9ae359dd96d270b 984308c12182c754e546eb98ba62c5bb28b1752f shivamEspark <shivam.v.rana.2024@gmail.com> 1714140928 +0530	checkout: moving from development to M1
+984308c12182c754e546eb98ba62c5bb28b1752f cbf0658ff81e62822e67495fb9ae359dd96d270b shivamEspark <shivam.v.rana.2024@gmail.com> 1714141082 +0530	checkout: moving from M1 to development
+cbf0658ff81e62822e67495fb9ae359dd96d270b 984308c12182c754e546eb98ba62c5bb28b1752f shivamEspark <shivam.v.rana.2024@gmail.com> 1714141106 +0530	checkout: moving from development to M1
+984308c12182c754e546eb98ba62c5bb28b1752f 810735538fd6b12eb35f72d0e1141903c7a449c9 shivamEspark <shivam.v.rana.2024@gmail.com> 1714141252 +0530	commit (merge): brnach M1 Conflict solved
+810735538fd6b12eb35f72d0e1141903c7a449c9 fdfcda83fbe9c5ef8cbb29a818cca118c9ee1adf shivamEspark <shivam.v.rana.2024@gmail.com> 1714141295 +0530	checkout: moving from M1 to M6
+fdfcda83fbe9c5ef8cbb29a818cca118c9ee1adf a5131f2e7524c77cf2c431ce4d70e5f7b1c386b9 shivamEspark <shivam.v.rana.2024@gmail.com> 1714141302 +0530	pull origin M6: Fast-forward
+a5131f2e7524c77cf2c431ce4d70e5f7b1c386b9 cbf0658ff81e62822e67495fb9ae359dd96d270b shivamEspark <shivam.v.rana.2024@gmail.com> 1714141307 +0530	checkout: moving from M6 to development
+cbf0658ff81e62822e67495fb9ae359dd96d270b d5e35a17ebb23aa8c09c417eb4c1e4b4d86750d8 shivamEspark <shivam.v.rana.2024@gmail.com> 1714141313 +0530	pull origin development: Fast-forward
+d5e35a17ebb23aa8c09c417eb4c1e4b4d86750d8 a5131f2e7524c77cf2c431ce4d70e5f7b1c386b9 shivamEspark <shivam.v.rana.2024@gmail.com> 1714141319 +0530	checkout: moving from development to M6
+a5131f2e7524c77cf2c431ce4d70e5f7b1c386b9 96e2604ab1d5aee1a7f3f29049ad314ab3bd04e1 shivamEspark <shivam.v.rana.2024@gmail.com> 1714141605 +0530	commit (merge): conflict solved M6
+96e2604ab1d5aee1a7f3f29049ad314ab3bd04e1 810735538fd6b12eb35f72d0e1141903c7a449c9 shivamEspark <shivam.v.rana.2024@gmail.com> 1714142866 +0530	checkout: moving from M6 to M1
+810735538fd6b12eb35f72d0e1141903c7a449c9 f67e7001577301d3ae30d0bced91eb6d4a91b46d shivamEspark <shivam.v.rana.2024@gmail.com> 1714201972 +0530	commit: route fix, pdf generation fix, result table fix, user profile button update with name, image related fixes
+f67e7001577301d3ae30d0bced91eb6d4a91b46d d5e35a17ebb23aa8c09c417eb4c1e4b4d86750d8 shivamEspark <shivam.v.rana.2024@gmail.com> 1714201990 +0530	checkout: moving from M1 to development
+d5e35a17ebb23aa8c09c417eb4c1e4b4d86750d8 3fa7b0bac06ad93a1e7eb2de6cbf57c09ff4a5e7 shivamEspark <shivam.v.rana.2024@gmail.com> 1714201999 +0530	pull origin development: Fast-forward
+3fa7b0bac06ad93a1e7eb2de6cbf57c09ff4a5e7 f67e7001577301d3ae30d0bced91eb6d4a91b46d shivamEspark <shivam.v.rana.2024@gmail.com> 1714202045 +0530	checkout: moving from development to M1
+f67e7001577301d3ae30d0bced91eb6d4a91b46d 494997b0e6626f155c10fd5bba189bc39e6c3990 shivamEspark <shivam.v.rana.2024@gmail.com> 1714202050 +0530	merge development: Merge made by the 'recursive' strategy.
+494997b0e6626f155c10fd5bba189bc39e6c3990 6b4b4c2aa75906859cbc6bdd97eb39367cecbcbf shivamEspark <shivam.v.rana.2024@gmail.com> 1714225691 +0530	commit: result marks table solved as well as pdf related file plus navigation bar image set
+6b4b4c2aa75906859cbc6bdd97eb39367cecbcbf 3fa7b0bac06ad93a1e7eb2de6cbf57c09ff4a5e7 shivamEspark <shivam.v.rana.2024@gmail.com> 1714363379 +0530	checkout: moving from M1 to development
+3fa7b0bac06ad93a1e7eb2de6cbf57c09ff4a5e7 202059dcf6a9fcc78b797ce95b1397e7ea50b4cf shivamEspark <shivam.v.rana.2024@gmail.com> 1714363386 +0530	pull origin development: Fast-forward
+202059dcf6a9fcc78b797ce95b1397e7ea50b4cf 202059dcf6a9fcc78b797ce95b1397e7ea50b4cf shivamEspark <shivam.v.rana.2024@gmail.com> 1714363894 +0530	reset: moving to HEAD
+202059dcf6a9fcc78b797ce95b1397e7ea50b4cf 6b4b4c2aa75906859cbc6bdd97eb39367cecbcbf shivamEspark <shivam.v.rana.2024@gmail.com> 1714363901 +0530	checkout: moving from development to M1
+6b4b4c2aa75906859cbc6bdd97eb39367cecbcbf 202059dcf6a9fcc78b797ce95b1397e7ea50b4cf shivamEspark <shivam.v.rana.2024@gmail.com> 1714364007 +0530	checkout: moving from M1 to development
+202059dcf6a9fcc78b797ce95b1397e7ea50b4cf 6b4b4c2aa75906859cbc6bdd97eb39367cecbcbf shivamEspark <shivam.v.rana.2024@gmail.com> 1714378041 +0530	checkout: moving from development to M1
+6b4b4c2aa75906859cbc6bdd97eb39367cecbcbf 202059dcf6a9fcc78b797ce95b1397e7ea50b4cf shivamEspark <shivam.v.rana.2024@gmail.com> 1714378048 +0530	merge development: Fast-forward
+202059dcf6a9fcc78b797ce95b1397e7ea50b4cf 3c6fb32b17996b88c168d71582a3370dcabcf474 shivamEspark <shivam.v.rana.2024@gmail.com> 1714391029 +0530	commit: search functionlity added with improvements
+3c6fb32b17996b88c168d71582a3370dcabcf474 39dbc1b37c5ff936b32034a6f8f86ca55d5e45d4 shivamEspark <shivam.v.rana.2024@gmail.com> 1714398975 +0530	commit: code fixes and improvements and search
+39dbc1b37c5ff936b32034a6f8f86ca55d5e45d4 4a2f4ffab13dc91930783f98acb4d58eff18ffec shivamEspark <shivam.v.rana.2024@gmail.com> 1714457998 +0530	commit: css improvements and results query improved
+4a2f4ffab13dc91930783f98acb4d58eff18ffec 202059dcf6a9fcc78b797ce95b1397e7ea50b4cf shivamEspark <shivam.v.rana.2024@gmail.com> 1714458003 +0530	checkout: moving from M1 to development
+202059dcf6a9fcc78b797ce95b1397e7ea50b4cf c8eb86462a9d211e3d1223b14c60494f567c8de9 shivamEspark <shivam.v.rana.2024@gmail.com> 1714458013 +0530	pull origin development: Fast-forward
+c8eb86462a9d211e3d1223b14c60494f567c8de9 4a2f4ffab13dc91930783f98acb4d58eff18ffec shivamEspark <shivam.v.rana.2024@gmail.com> 1714458018 +0530	checkout: moving from development to M1
+4a2f4ffab13dc91930783f98acb4d58eff18ffec 051641f74724e2b9f9030ba1e399f8960f24f650 shivamEspark <shivam.v.rana.2024@gmail.com> 1714458114 +0530	commit (merge): development pull merged
+051641f74724e2b9f9030ba1e399f8960f24f650 a3caaaf9bcb633c80bd50c23e1ad8b791b4b1804 shivamEspark <shivam.v.rana.2024@gmail.com> 1714465103 +0530	commit: on login the browser back button problem solved
+a3caaaf9bcb633c80bd50c23e1ad8b791b4b1804 f77b396d35cb7f05ad54eb7d87bf0ff8d026e7fa shivamEspark <shivam.v.rana.2024@gmail.com> 1714483321 +0530	commit: validation updates, style improvements
+f77b396d35cb7f05ad54eb7d87bf0ff8d026e7fa 05c0cb5a75515a6510ed5db9a19b542c3a408c96 shivamEspark <shivam.v.rana.2024@gmail.com> 1714535674 +0530	commit: save chagnes
+05c0cb5a75515a6510ed5db9a19b542c3a408c96 c8eb86462a9d211e3d1223b14c60494f567c8de9 shivamEspark <shivam.v.rana.2024@gmail.com> 1714535687 +0530	checkout: moving from M1 to development
+c8eb86462a9d211e3d1223b14c60494f567c8de9 4516fb1d1634ec40fc5f88c1c589dee81ed7ab08 shivamEspark <shivam.v.rana.2024@gmail.com> 1714535695 +0530	pull origin development: Fast-forward
+4516fb1d1634ec40fc5f88c1c589dee81ed7ab08 05c0cb5a75515a6510ed5db9a19b542c3a408c96 shivamEspark <shivam.v.rana.2024@gmail.com> 1714535751 +0530	checkout: moving from development to M1
+05c0cb5a75515a6510ed5db9a19b542c3a408c96 6d8eba5706dd081337ec4a02ca7cd1bd7959127a shivamEspark <shivam.v.rana.2024@gmail.com> 1714535765 +0530	merge development: Merge made by the 'recursive' strategy.
+6d8eba5706dd081337ec4a02ca7cd1bd7959127a 6d8eba5706dd081337ec4a02ca7cd1bd7959127a shivamEspark <shivam.v.rana.2024@gmail.com> 1714548417 +0530	checkout: moving from M1 to tM3
+6d8eba5706dd081337ec4a02ca7cd1bd7959127a 6d8eba5706dd081337ec4a02ca7cd1bd7959127a shivamEspark <shivam.v.rana.2024@gmail.com> 1714548434 +0530	checkout: moving from tM3 to M1
+6d8eba5706dd081337ec4a02ca7cd1bd7959127a 7282b2cf36a85b498f636fa9818274329fa6aefe shivamEspark <shivam.v.rana.2024@gmail.com> 1714548470 +0530	commit: cache control route added to prevenet back on logout
+7282b2cf36a85b498f636fa9818274329fa6aefe 6d8eba5706dd081337ec4a02ca7cd1bd7959127a shivamEspark <shivam.v.rana.2024@gmail.com> 1714548496 +0530	checkout: moving from M1 to tM3
+6d8eba5706dd081337ec4a02ca7cd1bd7959127a 6d8eba5706dd081337ec4a02ca7cd1bd7959127a shivamEspark <shivam.v.rana.2024@gmail.com> 1714548523 +0530	checkout: moving from tM3 to tM3
+6d8eba5706dd081337ec4a02ca7cd1bd7959127a 7282b2cf36a85b498f636fa9818274329fa6aefe shivamEspark <shivam.v.rana.2024@gmail.com> 1714548527 +0530	checkout: moving from tM3 to M1
+7282b2cf36a85b498f636fa9818274329fa6aefe 6d8eba5706dd081337ec4a02ca7cd1bd7959127a shivamEspark <shivam.v.rana.2024@gmail.com> 1714548545 +0530	checkout: moving from M1 to tM3
+6d8eba5706dd081337ec4a02ca7cd1bd7959127a c936780f86c3e04cab31eb73ca0826ee77111c8c shivamEspark <shivam.v.rana.2024@gmail.com> 1714548553 +0530	pull origin M3: Merge made by the 'recursive' strategy.
+c936780f86c3e04cab31eb73ca0826ee77111c8c 7282b2cf36a85b498f636fa9818274329fa6aefe shivamEspark <shivam.v.rana.2024@gmail.com> 1714548561 +0530	checkout: moving from tM3 to M1
+7282b2cf36a85b498f636fa9818274329fa6aefe b4ca2d9a5a6e11bd65b78d993e6b3b908462878f shivamEspark <shivam.v.rana.2024@gmail.com> 1714571663 +0530	commit (merge): feedback functionality user side done with pagination and search
+b4ca2d9a5a6e11bd65b78d993e6b3b908462878f 7cc6deaee9557e40a533bf362dd16ecced69c3ff shivamEspark <shivam.v.rana.2024@gmail.com> 1714571979 +0530	commit: search problem solved
+7cc6deaee9557e40a533bf362dd16ecced69c3ff 4516fb1d1634ec40fc5f88c1c589dee81ed7ab08 shivamEspark <shivam.v.rana.2024@gmail.com> 1714621534 +0530	checkout: moving from M1 to development
+4516fb1d1634ec40fc5f88c1c589dee81ed7ab08 65a0adc74ffaccc89729e994fe8c4f1d3c871f57 shivamEspark <shivam.v.rana.2024@gmail.com> 1714621545 +0530	pull origin development: Fast-forward
+65a0adc74ffaccc89729e994fe8c4f1d3c871f57 7cc6deaee9557e40a533bf362dd16ecced69c3ff shivamEspark <shivam.v.rana.2024@gmail.com> 1714622337 +0530	checkout: moving from development to M1
+7cc6deaee9557e40a533bf362dd16ecced69c3ff 65a0adc74ffaccc89729e994fe8c4f1d3c871f57 shivamEspark <shivam.v.rana.2024@gmail.com> 1714622543 +0530	checkout: moving from M1 to development
+65a0adc74ffaccc89729e994fe8c4f1d3c871f57 7cc6deaee9557e40a533bf362dd16ecced69c3ff shivamEspark <shivam.v.rana.2024@gmail.com> 1714622568 +0530	checkout: moving from development to M1
+7cc6deaee9557e40a533bf362dd16ecced69c3ff 65a0adc74ffaccc89729e994fe8c4f1d3c871f57 shivamEspark <shivam.v.rana.2024@gmail.com> 1714622596 +0530	checkout: moving from M1 to development
+65a0adc74ffaccc89729e994fe8c4f1d3c871f57 7cc6deaee9557e40a533bf362dd16ecced69c3ff shivamEspark <shivam.v.rana.2024@gmail.com> 1714622605 +0530	checkout: moving from development to M1
+7cc6deaee9557e40a533bf362dd16ecced69c3ff 65a0adc74ffaccc89729e994fe8c4f1d3c871f57 shivamEspark <shivam.v.rana.2024@gmail.com> 1714622608 +0530	checkout: moving from M1 to development
+65a0adc74ffaccc89729e994fe8c4f1d3c871f57 7cc6deaee9557e40a533bf362dd16ecced69c3ff shivamEspark <shivam.v.rana.2024@gmail.com> 1714622614 +0530	checkout: moving from development to M1
+7cc6deaee9557e40a533bf362dd16ecced69c3ff 7cc6deaee9557e40a533bf362dd16ecced69c3ff shivamEspark <shivam.v.rana.2024@gmail.com> 1714622852 +0530	checkout: moving from M1 to M1
+7cc6deaee9557e40a533bf362dd16ecced69c3ff 65a0adc74ffaccc89729e994fe8c4f1d3c871f57 shivamEspark <shivam.v.rana.2024@gmail.com> 1714622902 +0530	checkout: moving from M1 to development
+65a0adc74ffaccc89729e994fe8c4f1d3c871f57 7cc6deaee9557e40a533bf362dd16ecced69c3ff shivamEspark <shivam.v.rana.2024@gmail.com> 1714623095 +0530	checkout: moving from development to M1
+7cc6deaee9557e40a533bf362dd16ecced69c3ff 65a0adc74ffaccc89729e994fe8c4f1d3c871f57 shivamEspark <shivam.v.rana.2024@gmail.com> 1714623099 +0530	merge development: Fast-forward
+65a0adc74ffaccc89729e994fe8c4f1d3c871f57 b6a1b0fccc48bd0f3b2dba812d06105cf3804ac4 shivamEspark <shivam.v.rana.2024@gmail.com> 1714655531 +0530	commit: search function improved in both module, query improved
+b6a1b0fccc48bd0f3b2dba812d06105cf3804ac4 65a0adc74ffaccc89729e994fe8c4f1d3c871f57 shivamEspark <shivam.v.rana.2024@gmail.com> 1714655544 +0530	checkout: moving from M1 to development
+65a0adc74ffaccc89729e994fe8c4f1d3c871f57 3a027d090df952840e505c25b0d42380cdde019a shivamEspark <shivam.v.rana.2024@gmail.com> 1714655550 +0530	pull origin development: Fast-forward
+3a027d090df952840e505c25b0d42380cdde019a b6a1b0fccc48bd0f3b2dba812d06105cf3804ac4 shivamEspark <shivam.v.rana.2024@gmail.com> 1714655605 +0530	checkout: moving from development to M1
+b6a1b0fccc48bd0f3b2dba812d06105cf3804ac4 ef14c1811c71e5b0fe4629e4e4d7db13a6e87a17 shivamEspark <shivam.v.rana.2024@gmail.com> 1714655886 +0530	commit (merge): merge devlopment into local
+ef14c1811c71e5b0fe4629e4e4d7db13a6e87a17 0ad2ec60dc94e9f270fa08f7ebfd1f2bbfc4c749 shivamEspark <shivam.v.rana.2024@gmail.com> 1714707420 +0530	commit: some minor fixes and changes
+0ad2ec60dc94e9f270fa08f7ebfd1f2bbfc4c749 3a027d090df952840e505c25b0d42380cdde019a shivamEspark <shivam.v.rana.2024@gmail.com> 1714707456 +0530	checkout: moving from M1 to development
+3a027d090df952840e505c25b0d42380cdde019a d01c2189bcd1bb9039866d8f07bfa42eef9821b1 shivamEspark <shivam.v.rana.2024@gmail.com> 1714707464 +0530	pull origin development: Fast-forward
+d01c2189bcd1bb9039866d8f07bfa42eef9821b1 c1d7e31f156e9d1de3c417d4c8e07948144ee59e shivamEspark <shivam.v.rana.2024@gmail.com> 1714708110 +0530	pull origin development: Fast-forward
+c1d7e31f156e9d1de3c417d4c8e07948144ee59e 2cf88e7f71a5da6cd83a94f0dc8290e15b98e1f7 shivamEspark <shivam.v.rana.2024@gmail.com> 1714708208 +0530	commit: merge dev
+2cf88e7f71a5da6cd83a94f0dc8290e15b98e1f7 0ad2ec60dc94e9f270fa08f7ebfd1f2bbfc4c749 shivamEspark <shivam.v.rana.2024@gmail.com> 1714708213 +0530	checkout: moving from development to M1
+0ad2ec60dc94e9f270fa08f7ebfd1f2bbfc4c749 3285aae222fb91b452bb25ff858c151cf9aa8746 shivamEspark <shivam.v.rana.2024@gmail.com> 1714710114 +0530	commit (merge): issue pagination button hide on no records
+3285aae222fb91b452bb25ff858c151cf9aa8746 9c238f4c2b5cf82a78a3039bab6d1611b8e40bde shivamEspark <shivam.v.rana.2024@gmail.com> 1714732948 +0530	commit: dark mode added
+9c238f4c2b5cf82a78a3039bab6d1611b8e40bde 334a517fc92801eb1afec5cfb01171e0fcf9b704 shivamEspark <shivam.v.rana.2024@gmail.com> 1714733031 +0530	commit: dark mode added and code optimised
+334a517fc92801eb1afec5cfb01171e0fcf9b704 2cf88e7f71a5da6cd83a94f0dc8290e15b98e1f7 shivamEspark <shivam.v.rana.2024@gmail.com> 1714736328 +0530	checkout: moving from M1 to development
+2cf88e7f71a5da6cd83a94f0dc8290e15b98e1f7 9f559061f547eb9555ec06e49b710d3a2b0ba8ce shivamEspark <shivam.v.rana.2024@gmail.com> 1714736342 +0530	pull origin development: Fast-forward
+9f559061f547eb9555ec06e49b710d3a2b0ba8ce 334a517fc92801eb1afec5cfb01171e0fcf9b704 shivamEspark <shivam.v.rana.2024@gmail.com> 1714739592 +0530	checkout: moving from development to M1
+334a517fc92801eb1afec5cfb01171e0fcf9b704 c42be224104dc1755a1ff157a799ae3a5aada0a3 shivamEspark <shivam.v.rana.2024@gmail.com> 1714739697 +0530	commit: file buffer validation added
+c42be224104dc1755a1ff157a799ae3a5aada0a3 c42be224104dc1755a1ff157a799ae3a5aada0a3 shivamEspark <shivam.v.rana.2024@gmail.com> 1714739735 +0530	checkout: moving from M1 to tempM1x
+c42be224104dc1755a1ff157a799ae3a5aada0a3 a40f7fd9fb5c68040fe3fe4ff164e3139db74c18 shivamEspark <shivam.v.rana.2024@gmail.com> 1714739744 +0530	pull origin M1: Merge made by the 'recursive' strategy.
+a40f7fd9fb5c68040fe3fe4ff164e3139db74c18 c42be224104dc1755a1ff157a799ae3a5aada0a3 shivamEspark <shivam.v.rana.2024@gmail.com> 1714739752 +0530	checkout: moving from tempM1x to M1
+c42be224104dc1755a1ff157a799ae3a5aada0a3 a40f7fd9fb5c68040fe3fe4ff164e3139db74c18 shivamEspark <shivam.v.rana.2024@gmail.com> 1714739763 +0530	merge tempM1x: Fast-forward
